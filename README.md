@@ -1,3 +1,23 @@
-# Python Functions: Building Logic, Structure & Reusability
-Initialize repository for Python functions learning journey with structured practice covering parameters, return values, and core logic building.
-A structured collection of Python programs focused on mastering functions. This repository demonstrates my learning journey through function definition, parameters, return statements, control flow, and data handling using functions. It serves as a foundation for me for problem-solving and future AI/ML development.
+# Python Functions: Learning & Practice
+
+A collection of Python programs focused on learning functions and building logic step by step.
+
+This repository includes practice with function definition, parameters, return values, and list-based operations. It is part of my learning journey toward stronger problem-solving skills and future AI/ML development.
+
+---
+
+## Files
+
+- `basic_function.py` → Basic function concepts  
+- `calculator_function.py` → Function-based calculator  
+- `list_statistics_functions.py` → List operations (sum, max, min, average, range, normalization)
+
+---
+
+## Goal
+
+To improve Python fundamentals, logical thinking, and build a strong base for Data Science and AI/ML.
+
+---
+
+Aqib

@@ -16,4 +16,10 @@ Goal
 
 To improve Python fundamentals, logical thinking, and build a strong base for Data Science and AI/ML.
 
+Example:-
+reverse("Myself") → flesyM  
+factorial(5) → 120  
+prime_checker(10) → composite  
+fibonacci(7) → [0, 1, 1, 2, 3, 5, 8]
+
 Aqib

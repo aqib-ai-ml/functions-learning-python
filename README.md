@@ -1,10 +1,10 @@
-Python Functions: Learning & Practice
+##Python Functions: Learning & Practice
 
 A collection of Python programs focused on learning functions and building logic step by step.
 
 This repository includes practice with function definition, parameters, return values, string operations, mathematical functions, recursion, and list-based operations. It is part of my learning journey toward stronger problem-solving skills and future AI/ML development.
 
-Files
+##Files
 basic_function.py → Basic function concepts
 calculator_function.py → Function-based calculator
 list_statistics_functions.py → List operations (sum, max, min, average, range, normalization)
